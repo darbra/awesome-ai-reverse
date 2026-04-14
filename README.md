@@ -48,6 +48,7 @@
 | [JSHook Reverse Tool](https://github.com/wuji66dde/jshook-skill) | AI 驱动的 JavaScript 逆向工程工具。 |
 | [reverse-skill](https://github.com/715494637/reverse-skill/) | Web JS 逆向 Skill 仓库，覆盖请求链定位、运行时诊断、AST 混淆恢复、JSVMP、Worker、WASM、Webpack 与协议语义分析。 |
 | [xbsReverseSkill](https://github.com/lwjjike/xbsReverseSkill) | Web/JS 逆向分析 Skill 仓库，包含 AST 反混淆、纯算/协议逆向、浏览器补环境三大能力模块。 |
+| [ruishu-mcp](https://github.com/xuange520/ruishu-mcp) | 专为 AI Agent 打造的瑞数防爬流量净化 MCP 工具 / An MCP Tool for AI Agents to Stealthily Bypass and Purify Ruishu WAF Traffic |
 
 ## 🔬 二进制 / 原生逆向
 

@@ -84,6 +84,7 @@
 | [DrissionPage MCP](https://github.com/wxhzhwxhzh/DrissionPageMCP) | 基于 DrissionPage + FastMCP 的浏览器自动化 MCP 服务器，提供丰富的浏览器操作 API。 |
 | [Camoufox MCP Server](https://github.com/whit3rabbit/camoufox-mcp) | 基于 Camoufox（隐私优先的 Firefox 分叉版）的浏览器自动化 MCP 服务器，具有先进的反检测功能。 |
 | [Charles MCP Server](https://github.com/heizaheiza/Charles-mcp) | 将 Charles Proxy 接入 MCP 客户端，让 Agent 稳定读取实时流量、分析历史录包。 |
+| [Anything Analyzer](https://github.com/Mouseww/anything-analyzer) | 操作一遍网站或应用，AI 就把协议逆向、加密分析、安全审计全干了。 |
 
 ---
 

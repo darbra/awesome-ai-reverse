@@ -63,7 +63,7 @@
 | [Binary Ninja MCP](https://github.com/fosdickio/binary_ninja_mcp) | Binary Ninja 插件 + MCP 服务器 + 桥接器，将 Binary Ninja 功能与 LLM 客户端无缝集成。 |
 | [revula](https://github.com/president-xd/revula) | 面向通用逆向工程自动化的生产级 MCP 服务器。 |
 
-## 📱 Android 安全分析
+## 📱 Android / IOS 安全分析
 
 > APK 反编译、动态插桩、设备管理与 API 提取
 
@@ -74,6 +74,7 @@
 | [Frida MCP Server](https://github.com/zhizhuodemao/frida-mcp) | MCP 服务器，让 AI 模型使用 Frida 进行 Android 动态分析。 |
 | [Android Proxy MCP](https://github.com/zhizhuodemao/android_proxy_mcp) | 基于 MCP 的 Android 抓包服务，AI 助手帮你抓取和分析 HTTP/HTTPS 流量。 |
 | [ADB MCP Server](https://github.com/zhizhuodemao/adb-mcp) | 面向 ADB 操作的 MCP 服务器，提供完整的 Android 设备管理功能。 |
+| [iOS MCP](https://github.com/witchan/ios-mcp) | iOS MCP 是一个运行在越狱 iPhone 上的 MCP (Model Context Protocol) 服务器，让 AI 代理（Claude、Codex、Cursor 等）能够直接操控 iOS 设备。 |
 
 ## 🌍 浏览器自动化 / 流量分析
 

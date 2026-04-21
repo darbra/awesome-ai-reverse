@@ -49,6 +49,7 @@
 | [reverse-skill](https://github.com/715494637/reverse-skill/) | Web JS 逆向 Skill 仓库，覆盖请求链定位、运行时诊断、AST 混淆恢复、JSVMP、Worker、WASM、Webpack 与协议语义分析。 |
 | [xbsReverseSkill](https://github.com/lwjjike/xbsReverseSkill) | Web/JS 逆向分析 Skill 仓库，包含 AST 反混淆、纯算/协议逆向、浏览器补环境三大能力模块。 |
 | [ruishu-mcp](https://github.com/xuange520/ruishu-mcp) | 专为 AI Agent 打造的瑞数防爬流量净化 MCP 工具 / An MCP Tool for AI Agents to Stealthily Bypass and Purify Ruishu WAF Traffic |
+| [JSReverser-MCP](https://github.com/NoOne-hub/JSReverser-MCP) | 一个把前端 JavaScript 逆向流程标准化的 MCP 服务。目标不是只做页面调试，而是把页面观察、运行时采样、本地复现、补环境和证据沉淀串成一套可复用工作流。 |
 
 ## 🔬 二进制 / 原生逆向
 

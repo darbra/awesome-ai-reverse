@@ -76,6 +76,7 @@
 | [Android Proxy MCP](https://github.com/zhizhuodemao/android_proxy_mcp) | 基于 MCP 的 Android 抓包服务，AI 助手帮你抓取和分析 HTTP/HTTPS 流量。 |
 | [ADB MCP Server](https://github.com/zhizhuodemao/adb-mcp) | 面向 ADB 操作的 MCP 服务器，提供完整的 Android 设备管理功能。 |
 | [iOS MCP](https://github.com/witchan/ios-mcp) | iOS MCP 是一个运行在越狱 iPhone 上的 MCP (Model Context Protocol) 服务器，让 AI 代理（Claude、Codex、Cursor 等）能够直接操控 iOS 设备。 |
+| [android-h1](https://github.com/s7safe/android-h1) | 移动安全漏洞挖掘专家 (Mobile Security Expert) 一句话介绍 基于 HackerOne 真实报告的移动安全漏洞挖掘知识库，提供 Android 和 iOS 应用的漏洞挖掘手法、技术细节和代码模式分析。 |
 
 ## 🌍 浏览器自动化 / 流量分析
 

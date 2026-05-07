@@ -95,7 +95,7 @@
 
 > AI 逆向工程交流与资源中转
 
-- [NBToken AI 中转站](https://nbtoken.ai567.asia/) - 大学同学搭建的 AI API 中转服务，适合需要稳定接入多模型能力、快速验证 AI 工程工作流的场景。
+- [NBToken AI 中转站](https://nbtoken.ai567.asia/) - 大学同学搭建的 AI API 中转服务，适合需要稳定接入多模型能力、快速验证 AI 工程工作流的场景。进群马上领取20美元体验金。
 
 ![AI 中转站群聊](https://imgbed.996sb.top/file/1778131206026_1778129974122.png)
 

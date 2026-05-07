@@ -32,6 +32,7 @@
 - [二进制 / 原生逆向](#-二进制--原生逆向)
 - [Android 安全分析](#-android-安全分析)
 - [浏览器自动化 / 流量分析](#-浏览器自动化--流量分析)
+- [AI 中转站](#-ai-中转站)
 
 ---
 
@@ -90,5 +91,12 @@
 | [Charles MCP Server](https://github.com/heizaheiza/Charles-mcp) | 将 Charles Proxy 接入 MCP 客户端，让 Agent 稳定读取实时流量、分析历史录包。 |
 | [Anything Analyzer](https://github.com/Mouseww/anything-analyzer) | 操作一遍网站或应用，AI 就把协议逆向、加密分析、安全审计全干了。 |
 
----
+## 🤝 AI 中转站
 
+> AI 逆向工程交流与资源中转
+
+- [NBToken AI 中转站](https://nbtoken.ai567.asia/) - 大学同学搭建的 AI API 中转服务，适合需要稳定接入多模型能力、快速验证 AI 工程工作流的场景。
+
+![AI 中转站群聊](https://imgbed.996sb.top/file/1778131206026_1778129974122.png)
+
+---

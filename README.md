@@ -65,6 +65,7 @@
 | [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 让 LLM 自主对应用程序进行逆向工程的 MCP 服务器，将 Ghidra 核心功能暴露给 MCP 客户端。 |
 | [Binary Ninja MCP](https://github.com/fosdickio/binary_ninja_mcp) | Binary Ninja 插件 + MCP 服务器 + 桥接器，将 Binary Ninja 功能与 LLM 客户端无缝集成。 |
 | [revula](https://github.com/president-xd/revula) | 面向通用逆向工程自动化的生产级 MCP 服务器。 |
+| [Rikugan](https://github.com/buzzer-re/Rikugan) |A reverse-engineering agent for IDA Pro and Binary Ninja that integrates a multi-provider LLM directly into your analysis UI. This project was vibecoded together with my friend, Claude Code. |
 
 ## 📱 Android / IOS 安全分析
 
@@ -97,6 +98,6 @@
 
 - [NBToken AI 中转站](https://nbtoken.ai567.asia/) - 大学同学搭建的 AI API 中转服务，适合需要稳定接入多模型能力、快速验证 AI 工程工作流的场景。进群马上领取20美元体验金。
 
-![AI 中转站群聊](https://imgbed.996sb.top/file/1778131206026_1778129974122.png)
+![AI 中转站群聊](https://imgbed.996sb.top/file/1778735362208_sadfdasf.jpg)
 
 ---

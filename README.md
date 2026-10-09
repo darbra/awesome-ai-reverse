@@ -64,6 +64,7 @@
 | [ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs) | 用于 AI 逆向工程的无头 IDA Pro MCP 服务器（Rust 实现）。 |
 | [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 让 LLM 自主对应用程序进行逆向工程的 MCP 服务器，将 Ghidra 核心功能暴露给 MCP 客户端。 |
 | [Binary Ninja MCP](https://github.com/fosdickio/binary_ninja_mcp) | Binary Ninja 插件 + MCP 服务器 + 桥接器，将 Binary Ninja 功能与 LLM 客户端无缝集成。 |
+| [REA](https://github.com/morluto/rea) | 面向 AI 智能体的本地 CLI 与 MCP 服务器，分析原生二进制、JavaScript/Electron 应用及 .NET 程序集，返回证据来源与分析限制；原生深度分析需另行安装 Hopper、Ghidra 或 IDA。 |
 | [revula](https://github.com/president-xd/revula) | 面向通用逆向工程自动化的生产级 MCP 服务器。 |
 | [Rikugan](https://github.com/buzzer-re/Rikugan) |A reverse-engineering agent for IDA Pro and Binary Ninja that integrates a multi-provider LLM directly into your analysis UI. This project was vibecoded together with my friend, Claude Code. |
 | [reverse-skill-private](https://github.com/zhaoxuya520/reverse-skill-private) |Cybersecurity Skills Router / Reverse-Engineering Skill Routing Pack |
